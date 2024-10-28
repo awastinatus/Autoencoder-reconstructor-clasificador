@@ -5,7 +5,7 @@
 - Felipe Poblete Contreras
 
 ##  Tutor
--  Sebastian Guzman
+-  Sebastián Guzmán
 
 ## Descripción del problema
 El proyecto busca mejorar la clasificación de alertas astronómicas del Zwicky Transient Facility (ZTF), un observatorio dedicado al estudio del cielo nocturno. Estas alertas incluyen imágenes de referencia, ciencia y diferencia, y su clasificación precisa es esencial para identificar fenómenos transitorios como supernovas. La motivación es desarrollar un modelo que no solo reconstruya imágenes astronómicas de manera efectiva, sino que también clasifique secuencialmente las alertas con alta precisión.
@@ -51,10 +51,10 @@ Los resultados se presentarán mediante tablas y gráficos de métricas de preci
 ## Estimación de recursos computacionales
 Se realizarán simulaciones en Google Colab, utilizando GPUs para reducir el tiempo de entrenamiento. Se estima un total de 50 simulaciones.
 
-## Carta GANTT semanal
-El proyecto está planificado para completarse en un periodo de 12 semanas, cubriendo desde la implementación del AutoEncoder hasta la integración de la capa recurrente y la evaluación final del modelo.
-
-##  Ejecucion codigo
-1.-
+##  Ejecución código
+Para ejecutar los notebooks dispuestos en este repositorio, es necesario contar con el dataset `stamp_dataset_28.pkl`. Este debe estar en local o en Google Drive.
+1.- Contar con el path del dataset.
+2.- Modificar en la sección "Datos" el path asociado según la plataforma esté usando.
+3.- Ejecutar el resto del código.
    
 
