@@ -53,8 +53,8 @@ Se realizarán simulaciones en Google Colab, utilizando GPUs para reducir el tie
 
 ##  Ejecución código
 Para ejecutar los notebooks dispuestos en este repositorio, es necesario contar con el dataset `stamp_dataset_28.pkl`. Este debe estar en local o en Google Drive.
-1.- Contar con el path del dataset.
-2.- Modificar en la sección "Datos" el path asociado según la plataforma esté usando.
-3.- Ejecutar el resto del código.
+- 1. Contar con el path del dataset.
+- 2. Modificar en la sección "Datos" el path asociado según la plataforma esté usando.
+- 3. Ejecutar el resto del código.
    
 
